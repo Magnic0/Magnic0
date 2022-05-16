@@ -17,6 +17,6 @@ I am a brazilian 3D Artist that have decided to learn about programming, so now 
 
 # 📚Here's my coding study progress:
 
-![Card showing contribution progress in GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magnic0&theme=solarized_dark)
+[![Card showing contribution progress in GitHub](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Magnic0&theme=solarized_dark)](#)
 
 Anyways, be free to visit my projects, hope you like them!
