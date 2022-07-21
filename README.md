@@ -5,7 +5,7 @@ I am a brazilian 3D Artist that have decided to learn about programming, so now 
 
 - 🔭 Working on developing my skills as a Front-end developer
 
-- 🌱 Learning HTML, CSS, JavaScript and ReactJS
+- 🌱 Learning HTML, CSS and JavaScript
 
 - 📫 You can contact me by sending an email to: nicolsoliverg@gmail.com
 
