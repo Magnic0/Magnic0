@@ -1,11 +1,11 @@
 # Hi there!👋 🇧🇷
 
 My name is Nicolas Oliveira, also known as ✨Magnico✨!
-I am a brazilian 3D Artist that have decided to learn about programming, so now I'm studying Web Development with HTML, CSS and JavaScript.
+I am a brazilian 3D Artist that have decided to learn about programming, so now I'm studying Web Development.
 
 - 🔭 Working on developing my skills as a Front-end developer
 
-- 🌱 Learning HTML, CSS and JavaScript
+- 🌱 Learning JavaScript and ReactJS
 
 - 📫 You can contact me by sending an email to: nicolsoliverg@gmail.com
 
@@ -13,7 +13,7 @@ I am a brazilian 3D Artist that have decided to learn about programming, so now 
 
 - 🎨 You can find my art on my [Artstation profile](https://www.artstation.com/magnico/), as well as my [Instagram](https://www.instagram.com/magnic0/) for some ongoing projects.
 
-- ⚡ Fun fact: I love video games, so I'm probably going to code some anytime.
+- ⚡ 2 fun facts: I love video games and music, my favorite game is The Last of Us and my favorite band is Red Hot Chili Peppers!
 
 # 📚Here's my coding study progress:
 
@@ -23,4 +23,4 @@ I am a brazilian 3D Artist that have decided to learn about programming, so now 
 
 Anyways, be free to visit my projects, hope you like them!
 
-[![image](https://c.tenor.com/EhmdDLgEARsAAAAM/madeline-celeste.gif)](#)
+[![image](https://c.tenor.com/f_RKzxmT4joAAAAC/cheers-joel.gif)](#)
