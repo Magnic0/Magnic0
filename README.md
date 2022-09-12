@@ -3,9 +3,9 @@
 My name is Nicolas Oliveira, also known as ✨Magnico✨!
 I am a brazilian 3D Artist that have decided to learn about programming, so now I'm studying Web Development.
 
-- 🔭 Working on developing my skills as a Front-end developer
+- 🔭 Working as a Freelancer Front-end Developer
 
-- 🌱 Learning JavaScript and ReactJS
+- 🌱 I have a solid knowledge of HTML, CSS and am learning JavaScript, aiming to be a ReactJS developer
 
 - 📫 You can contact me by sending an email to: nicolsoliverg@gmail.com
 
